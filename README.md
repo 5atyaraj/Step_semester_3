@@ -60,7 +60,7 @@
 - Committed each Session 9 problem separately.
 
 **Next Session Plan:**
-- Continue with the next scheduled STEP session.
+- Continue with Session 10: Data Structures.
 - Create the next feature branch from `develop`.
 - Complete the assigned class and assignment problems.
 
