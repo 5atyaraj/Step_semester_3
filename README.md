@@ -38,7 +38,6 @@
 ## Date: 10-10-2026
 
 **Today's Work:**
-
 - Completed Session 10: Data Structures.
 - Created the `S10_DataStructures` package.
 - Completed 5 assignment problems:
@@ -62,7 +61,6 @@
 - Committed each Session 10 problem separately.
 
 **Next Session Plan:**
-
 - Continue with Session 11: DSA.
 - Create the next feature branch from `develop`.
 - Complete the assigned class and assignment problems.
