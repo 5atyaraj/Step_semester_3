@@ -27,8 +27,7 @@
 - Committed each Session 10 problem separately.
 
 **Next Session Plan:**
-
-- Continue with the next scheduled STEP session.
+- Continue with Session 11: DSA.
 - Create the next feature branch from `develop`.
 - Complete the assigned class and assignment problems.
 
